@@ -18,8 +18,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Welcome" />
-        <activity android:name=".EducationActivity"></activity>
+        <activity
+            android:name=".Welcome"
+            android:label="Welcome" />
+        <activity
+            android:name=".EducationActivity"
+            android:label="Education History" />
+        <activity android:name=".previous_work.PreviousWorkActivity" />
+        <activity android:name=".memories.MemoriesActivity"></activity>
     </application>
 
 </manifest>

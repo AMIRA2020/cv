@@ -1,3 +1,105 @@
 <resources>
     <string name="app_name">cv</string>
+    <string name="fnamemessage"> Enter valid name </string>
+    <string name="lnamemessage"> Enter valid name </string>
+    <string name="emailmessage"> Enter valid email address </string>
+
+    <string-array name="fromDateTextView">
+        <item>1996</item>
+        <item>2002</item>
+        <item>2005</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2011</item>
+        <item>2011</item>
+        <item>2011</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2017</item>
+    </string-array>
+
+    <string-array name="toDateTextView">
+        <item>2002</item>
+        <item>2005</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2011</item>
+        <item>2011</item>
+        <item>2015</item>
+        <item>2018</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>Now</item>
+    </string-array>
+
+    <string-array name="specializationTextView">
+        <item>Not Applicable</item>
+        <item>Not Applicable</item>
+        <item>Microsoft</item>
+        <item>Not Applicable</item>
+        <item>Chemist</item>
+        <item>Self development</item>
+        <item>Neuro –Linguistic Programming</item>
+        <item>Not Applicable</item>
+        <item>Microbiology</item>
+        <item>Operational Quality</item>
+        <item>EHS</item>
+        <item>EHS</item>
+        <item>Java/android</item>
+    </string-array>
+
+    <string-array name="academicDegreeTextView">
+        <item>primary certificate</item>
+        <item>preparatory certificate</item>
+        <item>ICDL</item>
+        <item>secondary certificate</item>
+        <item>Bachelor of Science</item>
+        <item>Not Applicable</item>
+        <item>Not Applicable</item>
+        <item>Emergency Care</item>
+        <item>Postgraduate</item>
+        <item>Quality Management</item>
+        <item>NASP</item>
+        <item>EHS</item>
+        <item>Programming</item>
+    </string-array>
+
+    <string-array name="gradeTextView">
+        <item>excellent</item>
+        <item>very good</item>
+        <item>Excellent</item>
+        <item>excellent</item>
+        <item>very good</item>
+        <item>not Applicable</item>
+        <item>Not Applicable</item>
+        <item>Not Applicable</item>
+        <item>good</item>
+        <item>excellent</item>
+        <item>Not Applicable</item>
+        <item>very good</item>
+        <item>senior</item>
+    </string-array>
+
+    <string-array name="donorTextView">
+        <item>Metwally Shaarawy</item>
+        <item>Al-kewery</item>
+        <item>New Horizon</item>
+        <item>Al-kewery</item>
+        <item>Azhar-Assiut</item>
+        <item>prof. Alia El-Mahy</item>
+        <item>Ibrahim Elfeky</item>
+        <item>Faculty of Science</item>
+        <item>Shebeen</item>
+        <item>Pharco</item>
+        <item>scientific syndicate</item>
+        <item>Labour culture center</item>
+        <item>senior steps</item>
+    </string-array>
+
+    >>>>>>> daec3359ebe573d9e054be7a4010b810bc722830
 </resources>
+
